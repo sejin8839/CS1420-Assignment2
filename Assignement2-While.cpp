@@ -28,9 +28,9 @@ int main() {
     }
 
     if (is_happy_number(num)) {
-        cout << num << " is a Happy Number" << endl;
+        cout << "The number is a Happy Number" << endl;
     } else {
-        cout << num << " is not a Happy Number" << endl;
+        cout << "The number is not a Happy Number" << endl;
     }
 
     return 0;
