@@ -2,8 +2,8 @@
 Author - Name:Sejin Yoon ID:u1311019
 Date: Mar 22, 2023
 Program: To check whether a number is happy or not
-Version 2 - using while loop
-filename: Assignment2_Ver1.cpp
+Version 2 - using for loop
+filename: Assignment2_Ver2.cpp
 */
 
 #include <iostream>
